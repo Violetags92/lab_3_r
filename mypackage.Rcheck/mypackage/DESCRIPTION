@@ -1,0 +1,14 @@
+Package: mypackage
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2015-09-07
+Author: person("Violeta", "Garc<c3><ad>a", email = "violeta26_11_92@hotmail.com",
+                  role = c("aut", "cre"))
+Maintainer: Who to complain to <violeta26_11_92@hotmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Imports:
+Suggests:
+Packaged: 2015-09-06 23:26:39 UTC; Usuario
+Built: R 3.1.2; ; 2015-09-06 23:26:42 UTC; windows

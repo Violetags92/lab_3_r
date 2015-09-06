@@ -1,0 +1,12 @@
+* installing *source* package 'mypackage' ...
+** R
+** preparing package for lazy loading
+** help
+Aviso: C:/Users/Usuario/Desktop/LIU/R programming/assignments/LAB_3/lab_3_r/mypackage.Rcheck/00_pkg_src/mypackage/man/mypackage-package.Rd:32: All text must be in a section
+Aviso: C:/Users/Usuario/Desktop/LIU/R programming/assignments/LAB_3/lab_3_r/mypackage.Rcheck/00_pkg_src/mypackage/man/mypackage-package.Rd:33: All text must be in a section
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+*** arch - i386
+*** arch - x64
+* DONE (mypackage)
